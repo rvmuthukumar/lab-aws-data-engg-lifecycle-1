@@ -2,7 +2,9 @@
 * Console → VPC → Create VPC → “VPC only.”
 * Name: <your-name>-lab-aws-data-engg-lifecycle-1-<service>
 * IPv4 CIDR: 10.2.0.0/24.
-* Enable DNS hostnames + DNS support.
+* Click "Create"
+* Select Edit for the VPC 
+* Enable DNS hostnames + DNS support (or the DNS Resolution).
 * Tags
     - project : <your-name>-lab-aws-data-engg-lifecycle-1
     - environment : dev
